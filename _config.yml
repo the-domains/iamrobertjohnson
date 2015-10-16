@@ -1,6 +1,6 @@
 name: iamrobertjohnson
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.05964884231798351
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: engagement
     item: null
     url: null
+typography_spectrum: 0.8067215892951936
